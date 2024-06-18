@@ -1,0 +1,5 @@
+publickey
+privatekey
+keys/
+output/
+wg0.json

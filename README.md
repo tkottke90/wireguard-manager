@@ -1,0 +1,1 @@
+# Edge Router Wireguard Configuration
